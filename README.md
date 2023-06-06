@@ -8,8 +8,8 @@
 I am a developer and researcher in the computer engineering environment and fascinated by technology. Interested in information security, data science, machine learning and web applications.
 
 - 🌱 I’m currently learning about stack Node.js | ReactJS | React Native | Angular  and researching in Data Science.
-- 📫 How to reach me: [Facebook](https://www.facebook.com/evoney.,mendonca/), [Email](evoney.tavares@gmail.com), [LinkedIn](https://www.linkedin.com/in/evoney-mendonça/), [Instagram](https://www.instagram.com/tavares.sh/) and [Twitter](https://twitter.com/_tavaressh)
-- 😄 Pronouns: he/him/his
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/evoney-mendonca/), [Instagram](https://www.instagram.com/tavares.sh/) and [Twitter](https://twitter.com/_tavaressh)
+- 😄 Pronouns: clube de regatas do flamengo
 
 ---
 
