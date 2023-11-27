@@ -8,7 +8,9 @@ I'm a code developer, a Computer Engineering, and crazy about computing. I put m
 
 - 🌱 I’m currently learning about Node | React | Angular | Devops | Cloud | Data Science.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evoney&show_icons=true&theme=transparent)
+<div align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evoney&show_icons=true&theme=transparent)
+</div>
 
 [![Twitter Badge](https://img.shields.io/badge/-@tavaressh-004252?style=flat-square&labelColor=004252f&logo=x&logoColor=white&link=https://x.com/tavaressh)](https://x.com/tavaressh) 
 [![Linkedin Badge](https://img.shields.io/badge/-Evoney%20Mendonça-004252?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evoney-mendonca/)](https://www.linkedin.com/in/evoney-mendonca/) 
